@@ -1,0 +1,3 @@
+206.221.182.74
+(copy this ip address and paste it in target section (top left) or ay other, 
+then choose tcp or udp scan and click scan,it scans on its own)
