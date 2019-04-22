@@ -1,0 +1,8 @@
+1] start wireshark
+2] vist "http://www.techpanda.org/" on chrome
+3] then type	email = admin@google.com
+		password = Password2010
+     
+4] come to wireshark , apply (http.request.method == "POST") this filter then doubleclick on the packet
+5] then click on ("HTML Form URL Encoded: application/x-www-form-urlencoded")
+then you will see the entered email and password 
